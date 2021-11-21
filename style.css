@@ -1,8 +1,5 @@
-* {
- margin: 0%;
- padding: 0%;
-  
-}
+
+
 
 .top-container {
 
@@ -27,15 +24,21 @@ text-align: center;
 }
 
 
- 
+
 
 
 .bottom-container {
 height: 500px;
 background-color: white;
+align-content: left;
 }
 
 
 footer {
     text-align: center;
 }
+form{
+    padding-top: 100px;
+}
+
+
