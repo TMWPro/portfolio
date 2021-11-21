@@ -1,22 +1,21 @@
-
-
-
 .top-container {
 
     height: 900px;
-background-color: black;
-text-align: center;
+    background-color: black;
+    text-align: center;
 }
+
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
 .middle-container {
-height: 110vh;
-background-color: orange;
-text-align: center;
+    height: 110vh;
+    background-color: orange;
+    text-align: center;
 }
 
 #myPic {
@@ -28,17 +27,17 @@ text-align: center;
 
 
 .bottom-container {
-height: 500px;
-background-color: white;
-align-content: left;
+    height: 500px;
+    background-color: white;
+    
 }
 
 
-footer {
-    text-align: center;
+#footer {
+    text-align: left;
 }
-form{
+
+form {
     padding-top: 100px;
+float: right;
 }
-
-
